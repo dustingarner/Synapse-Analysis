@@ -5,4 +5,4 @@ The programs are based on annotationframeworkclient, which requires a "token" fo
 
 FlyWireSynapseTutorial was created by the FlyWire team and explains different uses of the client framework.
 
-Dustin's Synapse Analysis contains all of the forms of analysis that can be done using Neuron IDs and regions. Some analysis requires a spreadsheet containing the region boundaries and other analysis requires a text document including a list of Neuron IDs. Examples of these files are provided in the repository.
+Dustin's Synapse Analysis contains all of the forms of analysis that can be done using Neuron IDs and Regions. Some analysis requires a spreadsheet containing the region boundaries and other analysis requires a text document including a list of Neuron IDs. Examples of these files are provided in the repository.
